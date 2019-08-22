@@ -1,76 +1,112 @@
-Sustainability as a Service Timeline
+---
+- name: Scarf
+  date: 2019-08-22
+  url: https://scarf.sh
+  contributors:
+    - Avi Press
+  tags:
+    - Licensing
+    - Analytics
 
-Source: https://github.com/kemitchell/susaas.kemitchell.com
+- name: funding
+  date: 2019-08-20
+  url: https://www.npmjs.com/package/funding
+  contributors:
+    - Feross Aboukhadijeh
+  tags:
+    - Ads
 
-Scarf
-2019-08-22
-https://scarf.sh
-Avi Press
-Licensing, Analytics
+- name: Sponsors
+  date: 2019-05-23
+  url: https://github.com/sponsors
+  contributors:
+    - GitHub
+    - Devon Zeugel
+  tags:
+    - Payments
+    - Subscriptions
 
-funding
-2019-08-20
-https://www.npmjs.com/package/funding
-Feross Aboukhadijeh
-Ads
+- name: CodeFund
+  date: 2018-03-31
+  url: https://codefund.io
+  contributors:
+    - Eric Berry
+  tags:
+    - Ads
 
-GitHub Sponsors
-2019-05-23
-https://github.com/sponsors
-Payments, Subscriptions
+- name: Community Bridge
+  date: 2019-03-12
+  url: https://communitybridge.org
+  contributors:
+    - Linux Foundation
+  tags:
+    - Donations
+    - Mentorship
+    - Governance
 
-CodeFund
-2018-03-31
-https://codefund.io
-Eric Berry
-Ads
+- name: GitStore
+  date: 2019-02-24
+  url: https://gitstore.app
+  contributors:
+    - Jason Adriaan
+  tags:
+    - Distribution
+    - Licensing
 
-Community Bridge
-2019-03-12
-https://communitybridge.org
-Linux Foundation
-Donations, Mentorship, Governance
+- name: Tidelift
+  date: 2017-11-04
+  url: https://tidelift.com
+  people:
+    - Luis Villa
+  tags:
+    - Services
+    - Governance
+    - Security
 
-GitStore
-2019-02-24
-https://gitstore.app
-Jason Adriaan
-Distribution, Licensing
+- name: License Zero
+  date: 2017-09-13
+  url: https://licensezero.com
+  contributors:
+    - K.E. Mitchell
+  tags:
+    - Licensing
 
-Tidelift
-2017-11-04
-https://tidelift.com
-Luis Villa
-Services, Governance, Security
+- name: OpenCollective
+  date: 2016-07-06
+  url: https://opencollective.com
+  tags:
+    - Donations
+    - Governance
 
-License Zero
-2017-09-13
-https://licensezero.com
-K.E. Mitchell
-Licensing
+- name: GitCoin
+  date: 2016-03-13
+  url: https://gitcoin.co/bounties
+  tags:
+    - Bounties
+    - Donations
+    - Grants
+    - Cryptocurrency
 
-OpenCollective
-2016-07-06
-https://opencollective.com
-Donations, Governance
+- name: Liberapay
+  date: 2015
+  url: https://liberapay.org
+  tags:
+    - Donations
+    - Subscriptions
 
-GitCoin
-2016-03-13
-https://gitcoin.co/bounties
-Bounties, Donations, Grants, Cryptocurrency
+- name: itch.io
+  date: 2013
+  url: https://itch.io
+  contributors:
+    - Leaf Corcoran
+  tags:
+    - Games
+    - Distribution
+    - Licensing
 
-Liberapay
-2015
-https://liberapay.org
-Donations, Subscriptions
-
-itch.io
-2013
-https://itch.io
-Leaf Corcoran
-Games, Distribution, Licensing
-
-BountySource
-2012
-https://bountrysource.com
-Security, Bounties
+- name: BountySource
+  date: 2012
+  url: https://bountrysource.com
+  tags:
+    - Security
+    - Bounties

@@ -1,0 +1,7 @@
+<article>
+  <h2>{{project.title}}</h2>
+  <p>{{project.date | date: '%B %Y'}}</p>
+  <p><a href="{{project.homepage}}">{{project.homepage}}</a></p>
+  <p class="contributors">{{project.contributors | join: ', '}}</p>
+  <p class="tags">{{project.tags | join: ', '}}</p>
+</article>
