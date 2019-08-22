@@ -1,0 +1,1 @@
+rsync --exclude .git --exclude publish -a --delete ./ susaas.kemitchell.com:/var/www/susaas.kemitchell.com/
