@@ -1,3 +1,5 @@
+#!/bin/sh
+set -e
 rm -rf _site
 bundle exec jekyll build
 rsync -a --delete _site/ susaas.kemitchell.com:/var/www/susaas.kemitchell.com/
