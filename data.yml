@@ -10,7 +10,7 @@
 
 - name: funding
   date: 2019-08-20
-  url: https://www.npmjs.com/package/funding
+  url: https://github.com/feross/funding
   contributors:
     - Feross Aboukhadijeh
   tags:
@@ -52,6 +52,14 @@
   tags:
     - Distribution
     - Licensing
+    
+- name: thanks
+  date: 2018-02-06
+  url: https://github.com/feross/thanks
+  contributors:
+    - Feross Aboukhadijeh
+  tags:
+    - Donations
 
 - name: Tidelift
   date: 2017-11-04
