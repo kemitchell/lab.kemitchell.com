@@ -1,8 +1,8 @@
-title: Sustainability as a Service Lab Notebook
-url: https://susaas.kemitchell.com
-homepage: https://susaas.kemitchell.com
-repository: kemitchell/susaas.kemitchell.com
-repository_url: "https://github.com/kemitchell/susaas.kemitchell.com"
+title: Open Funding Lab Notebook
+url: https://lab.kemitchell.com
+homepage: https://lab.kemitchell.com
+repository: kemitchell/lab.kemitchell.com
+repository_url: "https://github.com/kemitchell/lab.kemitchell.com"
 plugins:
   - jekyll-feed
 feed:

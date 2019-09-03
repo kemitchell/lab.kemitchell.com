@@ -1,3 +1,3 @@
-# Sustainability as a Service Lab Notebook
+# Open Funding Lab Notebook
 
-This repository contains source files for [susaas.kemitchell.com](https://susaas.kemitchell.com).
+This repository contains source files for [lab.kemitchell.com](https://lab.kemitchell.com).
