@@ -4,4 +4,5 @@
   <p><a href="{{project.homepage}}">{{project.homepage}}</a></p>
   <p class="contributors">{{project.contributors | join: ', '}}</p>
   <p class="tags">{{project.tags | join: ', '}}</p>
+  {% if project.content %}{{project.content | markdownify}}{% endif %}
 </article>

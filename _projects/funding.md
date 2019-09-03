@@ -7,3 +7,7 @@ contributors:
 tags:
   - Ads
 ---
+
+Blog Post: ["Introducing `funding`"](https://feross.org/npm-install-funding/)
+
+Blog Post: ["Recap of the `funding` experiment"](https://feross.org/funding-experiment-recap/)
